@@ -1,8 +1,9 @@
-# PHP-Clothing_Store
-Default user credentials works for both user and admin panel
+# Getting Started
+Import the sql file uploaded with the code before completing the next steps <br>
+Default user credentials works for both user and admin panel <br>
 p.s. creating new accounts will only make you login as user
 
-Email => test@test.com
+Email => test@test.com <br>
 Password => test123
 
 First, you open website/connection.php file to change the username and password of database connection if different.
